@@ -43,5 +43,4 @@ http://localhost:5173
 ```
 
 ## 最终效果图
-![截图](Image1.png)
-![截图](Image2.png)
+![截图](3in1.png)
